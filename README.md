@@ -22,7 +22,7 @@ A web application using NFL play-by-play data and real playbooks to develop a ma
 
 An interactive rehabilitation application that uses MediaPipe pose tracking to turn shoulder physical-therapy exercises into webcam-controlled arcade games.
 
-### Aris
+### [Aris](https://github.com/nstepanenko464/Aris)
 **Formal Logic Tool | Rust**
 
 A formal logic application for constructing and verifying logical proofs. My contributions included debugging logic statements and implementing new inference rules.
